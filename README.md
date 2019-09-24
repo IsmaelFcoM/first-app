@@ -1,5 +1,8 @@
 # first-app
-This is an example
 
+Hello world it's Ismael!
 
-## hello
+I'm Web Developer and Mechatronics Engineer.
+I enjoy programming, teaching, reading and running.
+
+See you guys!
